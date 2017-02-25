@@ -1,0 +1,30 @@
+Command line:
+   Dlock2_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  61288
+
+Fri Nov 27 17:34:10 2015
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 841.605 Meg
+
+ Total Signals          : 6
+ Total Nets             : 11
+ Total Signal Drivers   : 2
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 371
+Total Line Count : 284
+Total Line Count : 284
+
+ Total Simulation Time: 0.171875 sec
+
+ Current Memory Usage: 369.721 Meg
+
+Fri Nov 27 18:03:28 2015
+

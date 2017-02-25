@@ -1,0 +1,166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/SCHOOL WORK/2015-2016/Digital Design Lab/BicycleLock
+Ebicyclelock
+Z1 w1448317106
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8BicycleLock.vhd
+Z5 FBicycleLock.vhd
+l0
+L32
+Vd>>D3I:eYAzdEVRhYaNJU3
+!s100 NPnd?QN<9`?k5C2m29ocz2
+Z6 OP;C;10.4a;61
+31
+Z7 !s110 1448317168
+!i10b 1
+Z8 !s108 1448317168.000000
+Z9 !s90 -reportprogress|300|-explicit|-93|BicycleLock.vhd|
+Z10 !s107 BicycleLock.vhd|
+!i113 1
+Z11 o-explicit -93 -O0
+Z12 tExplicit 1
+Abehavioral
+R2
+R3
+DEx4 work 11 bicyclelock 0 22 d>>D3I:eYAzdEVRhYaNJU3
+l39
+L37
+VPRHZzeazfB@MTz9=AnKO50
+!s100 C4@RFiF9d_mRU_a<>e`f>0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edlock
+Z13 w1448659990
+R2
+R3
+R0
+R4
+R5
+l0
+L32
+VjaC6A?b>1P<Z>KF`ld8S32
+!s100 5<V53SYCDzaZ:Maa>W_WI1
+R6
+31
+Z14 !s110 1448660017
+!i10b 1
+Z15 !s108 1448660017.000000
+R9
+R10
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 5 dlock 0 22 jaC6A?b>1P<Z>KF`ld8S32
+l45
+L39
+V@HiBOM^e1cO]KFR`U>nB[2
+!s100 E^I84dD2[;8:]UohYT=6Y2
+R6
+31
+R14
+!i10b 1
+R15
+R9
+R10
+!i113 1
+R11
+R12
+Edlock2
+Z16 w1449095700
+R2
+R3
+R0
+Z17 8Dlock2.vhd
+Z18 FDlock2.vhd
+l0
+L32
+VC2aN>90RlM;X5ngOW[lbV2
+!s100 6lXZ0^mLJ_E<l4lTMS^CR2
+R6
+31
+Z19 !s110 1449095734
+!i10b 1
+Z20 !s108 1449095734.000000
+Z21 !s90 -reportprogress|300|-explicit|-93|Dlock2.vhd|
+Z22 !s107 Dlock2.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+Z23 DEx4 work 6 dlock2 0 22 C2aN>90RlM;X5ngOW[lbV2
+l45
+L40
+V`daSj>;oY_5K0zH`mo8D70
+!s100 T7lhYT6P_MMAZh`;?h;?L1
+R6
+31
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R11
+R12
+Emealy
+Z24 w1448660214
+R2
+R3
+R0
+Z25 8mealy.vhd
+Z26 Fmealy.vhd
+l0
+L32
+V^cb@1Tm1f@SXJ4iV`LGoz1
+!s100 UKgA<]e=L]G=ET=CAAH_J0
+R6
+31
+Z27 !s110 1448669462
+!i10b 1
+Z28 !s108 1448669462.000000
+Z29 !s90 -reportprogress|300|-explicit|-93|mealy.vhd|
+Z30 !s107 mealy.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 5 mealy 0 22 ^cb@1Tm1f@SXJ4iV`LGoz1
+l45
+L40
+VjRTALAzQJ[H1^WSG]S2]=0
+!s100 AH54`2Y^1adNaF@F?0Pkb2
+R6
+31
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R11
+R12
